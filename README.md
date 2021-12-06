@@ -4,8 +4,11 @@
 
 
 ### - Página Inicial
-![](/imagens/screenshot.png)
+![](/img/screenshot.png)
 
 ### - Dispositivos menores algumas imagens ficam ocultas 
 
-![](/imagens/screenshot2.png)
+![](/img/screenshot2.png)
+
+
+- LinkedIn - [becardine](https://www.linkedin.com/in/becardine)
